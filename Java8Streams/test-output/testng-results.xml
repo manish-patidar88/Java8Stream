@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51" started-at="2021-06-05T19:51:39 IST" finished-at="2021-06-05T19:51:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51" started-at="2021-06-05T19:51:39 IST" finished-at="2021-06-05T19:51:39 IST">
+      <class name="com.java.streams.map.StreamsMap">
+        <test-method status="PASS" signature="convertVehicleToUpperCase()[pri:0, instance:com.java.streams.map.StreamsMap@50b494a6]" name="convertVehicleToUpperCase" duration-ms="10" started-at="2021-06-05T19:51:39 IST" finished-at="2021-06-05T19:51:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- convertVehicleToUpperCase -->
+        <test-method status="PASS" signature="findLengthOfEachVehicle()[pri:0, instance:com.java.streams.map.StreamsMap@50b494a6]" name="findLengthOfEachVehicle" duration-ms="1" started-at="2021-06-05T19:51:39 IST" finished-at="2021-06-05T19:51:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findLengthOfEachVehicle -->
+      </class> <!-- com.java.streams.map.StreamsMap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
